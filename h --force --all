@@ -1,0 +1,43 @@
+[33mcommit 7573f3071ad9bc634c501828b5fd05420b359924[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Zync Bot <aparnasanki16@gmail.com>
+Date:   Sat Jun 6 02:38:55 2026 +0530
+
+    Docs: Update README with setup and run.bat instructions
+
+[33mcommit 89ceb78909f45d9159f279ff9f54ddc103f82af8[m
+Author: Zync Bot <aparnasanki16@gmail.com>
+Date:   Sat Jun 6 02:37:18 2026 +0530
+
+    Add run.bat for starting dev server
+
+[33mcommit 1d83c8aedc92dfd5f042e7bdc9fdad725c8878a2[m
+Author: Zync Bot <aparnasanki16@gmail.com>
+Date:   Fri Jun 5 19:33:54 2026 +0530
+
+    Refactor: JSX architecture, social link fixes, and architecture doc updates
+
+[33mcommit 9daa0942f90d4b9b611053a71902e85148028500[m
+Author: Sudiptoo <aparnasanki16@gmail.com>
+Date:   Fri Jun 5 04:01:29 2026 +0530
+
+    Add architecture and tech stack overview to README
+    
+    Added an overview of the architecture and tech stack for the Next.js application, including tech stack details, page to file mapping, and a detailed folder tree.
+
+[33mcommit 6a9c0b950e679d205054134b7f1bb2a3e2fedb66[m[33m ([m[1;33mtag: [m[1;33mV2.0.0[m[33m)[m
+Author: Zync Bot <aparnasanki16@gmail.com>
+Date:   Fri Jun 5 03:55:01 2026 +0530
+
+    Migrate to React app, remove legacy HTML, secure API key
+
+[33mcommit d3e56415e8b7566da683e015bd7136f50dc8ab5d[m
+Author: Zync Bot <aparnasanki16@gmail.com>
+Date:   Wed Jun 3 23:59:38 2026 +0530
+
+    Update changes
+
+[33mcommit bfe171254d52cebac22c61f06c2c6a391b80982e[m
+Author: Zync Bot <aparnasanki16@gmail.com>
+Date:   Wed Jun 3 23:41:16 2026 +0530
+
+    Initial commit
